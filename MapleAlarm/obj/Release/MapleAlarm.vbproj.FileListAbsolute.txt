@@ -15,3 +15,20 @@ C:\Users\Win10\Documents\Visual Studio 2017\Projects\MapleAlarm\MapleAlarm\bin\R
 C:\Users\Win10\Documents\Visual Studio 2017\Projects\MapleAlarm\MapleAlarm\obj\Release\메이플 알리미.TrustInfo.xml
 C:\Users\Win10\Documents\Visual Studio 2017\Projects\MapleAlarm\MapleAlarm\obj\Release\메이플 알리미.exe.manifest
 C:\Users\Win10\Documents\Visual Studio 2017\Projects\MapleAlarm\MapleAlarm\obj\Release\메이플 알리미.application
+C:\Users\Win10\Documents\GitHub\MapleAlarm\MapleAlarm\bin\Release\메이플 알리미.exe.config
+C:\Users\Win10\Documents\GitHub\MapleAlarm\MapleAlarm\bin\Release\메이플 알리미.exe.manifest
+C:\Users\Win10\Documents\GitHub\MapleAlarm\MapleAlarm\bin\Release\메이플 알리미.application
+C:\Users\Win10\Documents\GitHub\MapleAlarm\MapleAlarm\bin\Release\메이플 알리미.exe
+C:\Users\Win10\Documents\GitHub\MapleAlarm\MapleAlarm\obj\Release\MapleAlarm.vbprojResolveAssemblyReference.cache
+C:\Users\Win10\Documents\GitHub\MapleAlarm\MapleAlarm\obj\Release\MapleAlarm.Form1.resources
+C:\Users\Win10\Documents\GitHub\MapleAlarm\MapleAlarm\obj\Release\MapleAlarm.Resources.resources
+C:\Users\Win10\Documents\GitHub\MapleAlarm\MapleAlarm\obj\Release\MapleAlarm.Resource1.resources
+C:\Users\Win10\Documents\GitHub\MapleAlarm\MapleAlarm\obj\Release\MapleAlarm.vbproj.GenerateResource.Cache
+C:\Users\Win10\Documents\GitHub\MapleAlarm\MapleAlarm\obj\Release\메이플 알리미.TrustInfo.xml
+C:\Users\Win10\Documents\GitHub\MapleAlarm\MapleAlarm\obj\Release\메이플 알리미.exe.manifest
+C:\Users\Win10\Documents\GitHub\MapleAlarm\MapleAlarm\obj\Release\메이플 알리미.application
+C:\Users\Win10\Documents\GitHub\MapleAlarm\MapleAlarm\obj\Release\메이플 알리미.exe
+C:\Users\Win10\Documents\GitHub\MapleAlarm\MapleAlarm\obj\Release\메이플 알리미.xml
+C:\Users\Win10\Documents\GitHub\MapleAlarm\MapleAlarm\obj\Release\메이플 알리미.pdb
+C:\Users\Win10\Documents\GitHub\MapleAlarm\MapleAlarm\bin\Release\메이플 알리미.pdb
+C:\Users\Win10\Documents\GitHub\MapleAlarm\MapleAlarm\bin\Release\메이플 알리미.xml

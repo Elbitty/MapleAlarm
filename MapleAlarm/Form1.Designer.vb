@@ -212,12 +212,12 @@ Partial Class Form1
         'LinkLabel1
         '
         Me.LinkLabel1.AutoSize = True
-        Me.LinkLabel1.Location = New System.Drawing.Point(70, 514)
+        Me.LinkLabel1.Location = New System.Drawing.Point(155, 527)
         Me.LinkLabel1.Name = "LinkLabel1"
-        Me.LinkLabel1.Size = New System.Drawing.Size(129, 20)
+        Me.LinkLabel1.Size = New System.Drawing.Size(66, 20)
         Me.LinkLabel1.TabIndex = 17
         Me.LinkLabel1.TabStop = True
-        Me.LinkLabel1.Text = "@gloomy_connor"
+        Me.LinkLabel1.Text = "@Elbitty"
         '
         'Everyday
         '
